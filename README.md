@@ -5,6 +5,7 @@ Aura is a simple weather widget that runs on ESP32-2432S028R ILI9341 devices wit
 This is just the source code for the project. This project includes a case design and assembly instructions. The complete instructions are available
 here: https://makerworld.com/en/models/1382304-aura-smart-weather-forecast-display
 
+
 ### License
 
 You can use the weather.ino code here under the terms of the GPL 3.0 license.
